@@ -62,7 +62,7 @@ const styles = StyleSheet.create({
         height: 120,
     },
     contenedorTexto: {
-        marginLeft: 15,
+        marginLeft: 25,
     },
     titulo: {
         fontSize: 18,
